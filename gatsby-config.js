@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: 'gatsby-theme-anchor',
       options: {
-        anchorRss: 'https://anchor.fm/s/4b4180c/podcast/rss',
+        anchorRss: 'https://anchor.fm/s/1404347c/podcast/rss',
         path: __dirname,
       },
     },

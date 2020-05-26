@@ -1,12 +1,14 @@
 ---
-heading: The ES Podcast
-subheading: A podcast about Random Javascript stuff
-logo: ''
-cover: ''
+heading: KabbeazFM
+subheading: 'egyszerre sehol és mindenhol, egyszerre soha és mindenkor!'
+logo: /img/podcast-index.png
+cover: /img/dji_0030.jpg
 podcastLinks:
-  - 'https://anchor.fm/the-es-podcast'
-  - 'https://open.spotify.com/show/5Rd4cMDPMx1yTIrs0988jo'
+  - 'https://anchor.fm/mihaszna'
+  - >-
+    https://open.spotify.com/show/0MJ0aDnRRze6T09B2s9jxh?si=ihvGL8psRiWO6nZUmxwfXw
 socialLinks:
-  - 'https://www.youtube.com/channel/UCS9lQiBBcvWEqQ66bijxIOw?view_as=subscriber'
-  - 'https://twitter.com/emasuriano'
+  - 'https://www.youtube.com/channel/UCpqsZGPo5C_J55U3DDMKumw'
+  - 'https://twitter.com/mihaszna'
 ---
+

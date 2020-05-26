@@ -1,17 +1,19 @@
 ---
-title: "What is this about?? \U0001F914"
 authors:
-  - description: "A guy that really likes Javascript \U0001F605 Open-Source Enthusiast \U0001F30E"
-    name: Ema Suriano
-    picture: /img/psx_20190301_135441.jpg
+  - description: >-
+      Really like to create something out of nothing, whether it is drawing,
+      painting, music making, and of course i love to train my body as a mixed
+      martial artist.
+    name: Mihaszna
+    picture: /img/vanhaszna.jpg
+  - description: >-
+      Mostly I do the programming part of the projects for the customers and the
+      team. I love to learn new technologies anytime. I’m always focusing on
+      writing clean, elegant and efficient code.
+    name: DENYHAX
+    picture: /img/denyhax.jpg
+  - description: 'Interested in ethical hacking, solving CTFs and playing CSGO.'
+    name: G0ld1e
+    picture: /img/goldie.jpg
 ---
-
-Hello there! Let me tell a little bit about this new project I started: **The ES Podcast** 🎉
-
-This is my first attempt of starting a tech podcast, and it all started as an excuse to create a Gatsby Theme that use the datasource of Anchor. And to be more specific the project is this one that you are seeing right now! 😄
-
-Regarding the content of the podcast it will include:
-
-- Opinion and learning that I think they are worthy to share with people.
-- Recommendation of projects that I am making or that I found on the web.
-- Interviews of some of my rockstar colleagues that are willing to participate in the project.
+#
